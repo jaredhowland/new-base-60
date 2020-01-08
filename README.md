@@ -21,7 +21,7 @@ Or add the following to your `composer.json` file:
 
 Otherwise, just include the file in your project:
 
-`require_once 'path\to\src\NewBase60.php';`
+`require_once 'path/to/src/NewBase60.php';`
 
 Usage
 =====
