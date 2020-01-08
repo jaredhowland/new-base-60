@@ -1,0 +1,20 @@
+{
+  "name": "jaredhowland/new-base-60",
+  "description": "PHP library to convert base 10 numbers to new base 60 and back again",
+  "keywords": ["new base 60", "base 10", "compression"],
+  "homepage": "https://github.com/jaredhowland/new-base-60",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "NewBase60\\": "src"
+    }
+  },
+  "require": {
+    "php": "~7.2"
+  },
+  "authors": [{
+    "name": "Jared Howland",
+    "homepage": "https://www.jaredhowland.com",
+    "role": "developer"
+  }]
+}
