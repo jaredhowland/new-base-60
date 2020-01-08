@@ -6,8 +6,8 @@
  *
  * Roughly translated from CASSIS to PHP by Jared Howland <newbase60@jaredhowland.com>
  *
- * Released under CC BY-SA 3.0:
- *     http://creativecommons.org/licenses/by-sa/3.0/
+ * Released under CC BY-SA 4.0:
+ *     https://creativecommons.org/licenses/by-sa/4.0/
  */
 
 namespace NewBase60;
